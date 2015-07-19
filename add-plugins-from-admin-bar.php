@@ -1,11 +1,11 @@
 <?php
 /**
 * Plugin Name: Add Plugins From Admin Bar
-* Plugin URI: http://rakshithvasudev.com/
+* Plugin URI: https://github.com/rakshithvasudev/add-plugins-from-admin-bar
 * Description: Adds a shortcut to install plugin in the admin bar.
 * Version: 1.0 
 * Author: Rakshith
-* Author URI: Author's website
+* Author URI:https://github.com/rakshithvasudev/
 * License: GPLv2 
 */
 
